@@ -1,4 +1,4 @@
-# proiect_licenta
+# HR Management Application
 A java swing hr management application
 
 This simple application was my Graduation Project. 
